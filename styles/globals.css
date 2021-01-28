@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+button {
+  margin: 40px;
+  padding: 20px;
+}
+
+h1 {
+  margin: 40px;
+}
